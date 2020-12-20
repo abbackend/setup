@@ -22,6 +22,7 @@
 ## Unistall
 	- sudo apt-get purge apache2
 
+===============================
 # MySQL Server
 ## Install
 	- sudo apt-get install mysql-server
