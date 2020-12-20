@@ -9,27 +9,55 @@
 	- Git
 
 # Apache Server
-	## Install
+	# Install
 		- sudo apt-get install apache2
-	## Config Test
+	# Config Test
 		- sudo apache2ctl configtest
-	## Check Config
+	# Check Config
 		- sudo nano /etc/apache2/apache2.conf
-	## Restart
+	# Restart
 		- sudo systemctl restart apache2
-	## Set Permission
+	# Set Permission
 		- sudo chmod 777 -R /var/www/html
-	## Unistall
+	# Unistall
 		- sudo apt-get purge apache2
 
 # MySQL Server
-	## Install
+	# Install
 		- sudo apt-get install mysql-server
-	## Open Mysql
+	# Open Mysql
 		- sudo mysql
-	## Set Root Password
+	# Set Root Password
 		- ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'root';
-	## Restart
+	# Restart
 		- sudo systemctl restart mysql
-	## Unistall
+	# Unistall
 		- sudo apt-get purge mysql-server
+
+# PHP
+	# Install
+		- sudo apt-get install php libapache2-mod-php php-mysql
+	# Config
+		- sudo nano /etc/apache2/mods-enabled/dir.conf (Add index.php in first end remove other index.php)
+	# Unistall
+		- sudo apt-get purge php
+
+# PHP MyAdmin
+	# Install
+		- sudo apt-get install phpmyadmin
+	# Config
+		- sudo nano /etc/apache2/apache2.conf (Add line to bottom 'Include /etc/phpmyadmin/apache.conf')
+	# Unistall
+		- sudo apt-get purge phpmyadmin
+
+# Composer
+	# Install
+		- sudo apt-get install composer
+	# Unistall
+		- sudo apt-get purge composer
+
+# GIT
+	# Install
+		- sudo apt-get install git
+	# Unistall
+		- sudo apt-get purge git
