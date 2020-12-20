@@ -9,13 +9,13 @@
 	- Git
 
 # Apache Server
-- Install
+## Install
 	- sudo apt-get install apache2
-- Config Test
+## Config Test
 	- sudo apache2ctl configtest
-- Check Config
+## Check Config
 	- sudo nano /etc/apache2/apache2.conf
-- Restart
+## Restart
 	- sudo systemctl restart apache2
-- Set Permission
+Set Permission
 	- sudo chmod 777 -R /var/www/html
