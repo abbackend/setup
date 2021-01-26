@@ -41,6 +41,8 @@
 		- sudo nano /etc/apache2/mods-enabled/dir.conf (Add index.php in first end remove other index.php)
 	# Unistall
 		- sudo apt-get purge php
+	# Change PHP Version
+		- sudo a2dismod php7.2 && sudo a2enmod php7.3 (Change php 7.2 - 7.3)
 
 # PHP MyAdmin
 	# Install
