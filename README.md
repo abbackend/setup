@@ -43,6 +43,10 @@
 		- sudo apt-get purge php
 	# Change PHP Version
 		- sudo a2dismod php7.2 && sudo a2enmod php7.3 (Change php 7.2 - 7.3)
+	# Change CLI Version
+		- sudo update-alternatives --set php /usr/bin/php7.3
+		- sudo update-alternatives --set phar /usr/bin/phar7.3
+		- sudo update-alternatives --set phar.phar /usr/bin/phar.phar7.3
 
 # PHP MyAdmin
 	# Install
