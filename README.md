@@ -2,12 +2,12 @@
 ## We need to setup the following plugins.
 | # | Plugin |
 | ------ | ------ |
-| 1 | Apache Server |
-| 2 | MySQL Server |
-| 3 | PHP |
-| 4 | PHP MyAdmin |
-| 5 | Composer |
-| 6 | Git |
+| 1 | [Apache Server](https://github.com/abbackend/server-setup#apache-server) |
+| 2 | [MySQL Server](https://github.com/abbackend/server-setup#mysql-server) |
+| 3 | [PHP](https://github.com/abbackend/server-setup#php) |
+| 4 | [PHP MyAdmin](https://github.com/abbackend/server-setup#php-myadmin) |
+| 5 | [Composer](https://github.com/abbackend/server-setup#composer) |
+| 6 | [Git](https://github.com/abbackend/server-setup#git) |
 
 ## Apache Server
 ``` sh
