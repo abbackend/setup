@@ -42,3 +42,7 @@
 		- [Git](https://github.com/abbackend/setup/blob/main/ServerSetup.md#git)
 			- Install
 			- Unistall
+- [Terminal Setup](https://github.com/abbackend/setup/blob/main/TerminalSetup.md)
+	- [ZSH](https://github.com/abbackend/setup/blob/main/TerminalSetup.md#zsh)
+		- Install
+  		- Unistall
