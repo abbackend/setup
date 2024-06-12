@@ -1,6 +1,6 @@
-# Setup
+<img src="https://s1.ezgif.com/tmp/ezgif-1-b7a6619cc9.gif" width="100%"/>
 
-![](https://png.pngtree.com/png-vector/20191101/ourmid/pngtree-gear-and-settings-vector-icon-png-image_1930105.jpg)
+# Setup
 
 ## Features
 
@@ -46,3 +46,8 @@
 	- [ZSH](https://github.com/abbackend/setup/blob/main/TerminalSetup.md#zsh)
 		- Install
   		- Unistall
+
+## Authors
+
+- [@abbackend](https://www.github.com/abbackend)
+
