@@ -1,4 +1,4 @@
-<img src="https://s1.ezgif.com/tmp/ezgif-1-b7a6619cc9.gif" width="100%"/>
+<img src="https://github.com/abbackend/portfolio/blob/master/channels4_banner.jpg" width="100%"/>
 
 # Setup
 
@@ -42,10 +42,10 @@
 		- [Git](https://github.com/abbackend/setup/blob/main/ServerSetup.md#git)
 			- Install
 			- Unistall
-- [Terminal Setup](https://github.com/abbackend/setup/blob/main/TerminalSetup.md)
-	- [ZSH](https://github.com/abbackend/setup/blob/main/TerminalSetup.md#zsh)
-		- Install
-  		- Unistall
+- [Terminal Setup](https://github.com/abbackend/zsh-setup)
+	- [ZSH](https://github.com/abbackend/zsh-setup?tab=readme-ov-file#zsh-setup)
+		- Installation
+  		- Appendix
 
 ## Authors
 
