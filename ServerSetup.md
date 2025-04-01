@@ -235,3 +235,9 @@ git config --global user.email "you@example.com"
 ## Conclusion
 
 You’ve just set up a fully functional web server on Ubuntu 20.x! With Apache serving pages, MySQL storing data, PHP powering your apps, phpMyAdmin managing databases, Composer handling dependencies, and Git tracking changes, you’re ready to build amazing projects. Have fun coding!
+
+---
+
+## Author
+
+- [@abbackend](https://www.github.com/abbackend)
