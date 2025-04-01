@@ -1,61 +1,50 @@
 <img src="https://github.com/abbackend/portfolio/blob/master/channels4_banner.jpg" width="100%"/>
 
-# Setup
+# Development Environment Setup Guides
 
-## Features
+Welcome to my collection of setup guides! Whether you're configuring a web server, enhancing your terminal with ZSH, or automating Laravel projects with wildcard subdomains, these step-by-step Markdown files have you covered. Pick a guide below and get started!
 
-- [ServerSetup](https://github.com/abbackend/setup/blob/main/ServerSetup.md)
+## Table of Contents
 
-	- [Ubuntu-20*](https://github.com/abbackend/setup/blob/main/ServerSetup.md#server-setup-ubuntu-20)
+1. [Server Setup](#server-setup)  
+2. [ZSH Setup](#zsh-setup)  
+3. [Herd Setup](#herd-setup)  
 
-		- [Apache Server](https://github.com/abbackend/setup/blob/main/ServerSetup.md#apache-server)
-			- Install
-			- Config Test
-			- Check Config
-			- Restart
-			- Set Permission
-			- Unistall
+---
 
-		-  [Mysql Server](https://github.com/abbackend/setup/blob/main/ServerSetup.md#mysql-server)
-			- Install
-			- Open Mysql
-			- Set root password
-			- Restart
-			- Unistall
+## Server Setup
 
-		-  [PHP](https://github.com/abbackend/setup/blob/main/ServerSetup.md#php)
-			-  Install
-			- Config
-			- Change PHP version
-			- Change CLI version
-			- Unistall
+Learn how to set up a web server on Ubuntu 20.x with Apache, MySQL, PHP, phpMyAdmin, Composer, and Git. Perfect for hosting web applications or testing projects locally.
 
-		-  [PHP MyAdmin](https://github.com/abbackend/setup/blob/main/ServerSetup.md#php-myadmin)
-			- Install
-			- Link to apache server
-			- Unistall
+- **[ServerSetup.md](./ServerSetup.md)**: Step-by-step instructions to install and configure a full web server stack.
 
-		- [Composer](https://github.com/abbackend/setup/blob/main/ServerSetup.md#composer)
-			- Install
-			- Unistall
+---
 
-		- [Git](https://github.com/abbackend/setup/blob/main/ServerSetup.md#git)
-			- Install
-			- Unistall
-- [Terminal Setup](https://github.com/abbackend/zsh-setup)
-	- [ZSH](https://github.com/abbackend/zsh-setup?tab=readme-ov-file#zsh-setup)
-		- Installation
-  		- Appendix
-- [Herd Linux Setup](https://github.com/abbackend/setup/blob/main/HerdSetup.md)
-	- [Step 1: Create a Directory for Your Projects](https://github.com/abbackend/setup/blob/main/HerdSetup.md#step-1-create-a-directory-for-your-projects)
- 	- [Step 2: Install Nginx](https://github.com/abbackend/setup/blob/main/HerdSetup.md#step-2-install-nginx)
-  	- [Step 3: Configure Nginx for Wildcard Subdomains](https://github.com/abbackend/setup/blob/main/HerdSetup.md#step-3-configure-nginx-for-wildcard-subdomains)
-  	- [Step 4: Enable and Test the Configuration](https://github.com/abbackend/setup/blob/main/HerdSetup.md#step-4-enable-and-test-the-configuration)
-  	- [Step 5: Install the Laravel CLI](https://github.com/abbackend/setup/blob/main/HerdSetup.md#step-5-install-the-laravel-cli)
-  	- [Step 6: Automate Project Creation with a Bash Script](https://github.com/abbackend/setup/blob/main/HerdSetup.md#step-6-automate-project-creation-with-a-bash-script)
-  	- [Step 7: Use the Script](https://github.com/abbackend/setup/blob/main/HerdSetup.md#step-7-use-the-script)
+## ZSH Setup
 
-## Authors
+Enhance your terminal experience by installing and configuring ZSH (Z Shell) with plugins and themes for a more productive workflow.
+
+- **[ZSHSetup.md](./ZSHSetup.md)**: A guide to setting up ZSH (coming soon—add your content here!).
+
+---
+
+## Herd Setup
+
+Set up Nginx to handle wildcard subdomains and automate Laravel project creation with a custom Bash script. Ideal for rapid local development.
+
+- **[HerdSetup.md](./HerdSetup.md)**: Instructions for configuring wildcard subdomains and automating Laravel setups.
+
+---
+
+## Notes
+
+- These guides assume a Linux environment (e.g., Ubuntu). Adjust commands as needed for other systems.
+- Contributions or suggestions? Feel free to fork or submit a pull request!
+
+Happy coding!
+
+---
+
+## Author
 
 - [@abbackend](https://www.github.com/abbackend)
-
