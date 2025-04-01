@@ -219,3 +219,9 @@ Now, open your browser and visit `http://myproject.test`—it should work seamle
 ## Conclusion
 
 With Nginx handling wildcard subdomains, the Laravel CLI installed, and an automation script in place, you can create new projects in seconds. This setup is perfect for local development, testing multiple apps, or even prototyping multi-tenant systems. Happy coding!
+
+---
+
+## Author
+
+- [@abbackend](https://www.github.com/abbackend)
