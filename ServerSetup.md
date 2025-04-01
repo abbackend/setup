@@ -1,3 +1,5 @@
+<img src="https://github.com/abbackend/portfolio/blob/master/channels4_banner.jpg" width="100%"/>
+
 # SERVER SETUP (Ubuntu 20.*)
 ## We need to setup the following plugins.
 | # | Plugin |
