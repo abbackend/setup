@@ -15,13 +15,13 @@ Change into the directory of the cloned repository.
 ### Step 2
 Grant executable permissions to the main script.
 ```bash
-  sudo chmod +x ./setup.sh
+  sudo chmod +x ./zshsetup.sh
 ```
 
 ### Step 3
 Execute the script.
 ```bash
-  ./setup.sh
+  ./zshsetup.sh
 ```
 
 ### Step 4
