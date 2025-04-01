@@ -46,6 +46,14 @@
 	- [ZSH](https://github.com/abbackend/zsh-setup?tab=readme-ov-file#zsh-setup)
 		- Installation
   		- Appendix
+- [Herd Linux Setup](https://github.com/abbackend/setup/blob/main/HerdSetup.md)
+	- [Step 1: Create a Directory for Your Projects](https://github.com/abbackend/setup/blob/main/HerdSetup.md#step-1-create-a-directory-for-your-projects)
+ 	- [Step 2: Install Nginx](https://github.com/abbackend/setup/blob/main/HerdSetup.md#step-2-install-nginx)
+  	- [Step 3: Configure Nginx for Wildcard Subdomains](https://github.com/abbackend/setup/blob/main/HerdSetup.md#step-3-configure-nginx-for-wildcard-subdomains)
+  	- [Step 4: Enable and Test the Configuration](https://github.com/abbackend/setup/blob/main/HerdSetup.md#step-4-enable-and-test-the-configuration)
+  	- [Step 5: Install the Laravel CLI](https://github.com/abbackend/setup/blob/main/HerdSetup.md#step-5-install-the-laravel-cli)
+  	- [Step 6: Automate Project Creation with a Bash Script](https://github.com/abbackend/setup/blob/main/HerdSetup.md#step-6-automate-project-creation-with-a-bash-script)
+  	- [Step 7: Use the Script](https://github.com/abbackend/setup/blob/main/HerdSetup.md#step-7-use-the-script)
 
 ## Authors
 
