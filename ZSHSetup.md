@@ -56,6 +56,9 @@ plugins=(
 )
 ```
 You can explore available plugins [here](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins).
+
+---
+
 ## Author
 
 - [@abbackend](https://www.github.com/abbackend)
